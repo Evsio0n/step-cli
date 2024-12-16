@@ -40,6 +40,7 @@ builds:
       - linux_arm_5
       - linux_arm_6
       - linux_arm_7
+      - linux_loong64
       - linux_mips
       - linux_mips64
       - linux_ppc64le
